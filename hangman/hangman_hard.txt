@@ -1,0 +1,16 @@
+hangman
+elephant
+keyboard
+octopus
+university
+mustache
+cardboard
+infection
+deodorant
+astronaut
+caterpillar
+butterfly
+hedgehog
+lightning
+tornado
+cylinder

@@ -1,0 +1,210 @@
+<list> 001
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> 002
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> 003
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> 007
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> 111
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> a
+
+textFiles/file2.txt 3 textFiles/file1.txt 1
+
+</list>
+
+<list> ab
+
+textFiles/file1.txt 3
+
+</list>
+
+<list> ac
+
+textFiles/file1.txt 3
+
+</list>
+
+<list> ad
+
+textFiles/file1.txt 2
+
+</list>
+
+<list> af
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> an
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> ax
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> az
+
+textFiles/file1.txt 3
+
+</list>
+
+<list> azzz
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> black
+
+textFiles/file2.txt 2
+
+</list>
+
+<list> blue
+
+textFiles/file4.txt 1
+
+</list>
+
+<list> dog
+
+textFiles/file4.txt 1
+
+</list>
+
+<list> example12
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> file1
+
+textFiles/file1.txt 5
+
+</list>
+
+<list> file2
+
+textFiles/file2.txt 3
+
+</list>
+
+<list> file3
+
+textFiles/file3.txt 1
+
+</list>
+
+<list> file4
+
+textFiles/file4.txt 3
+
+</list>
+
+<list> file5
+
+textFiles/file5.txt 5
+
+</list>
+
+<list> green
+
+textFiles/file4.txt 3
+
+</list>
+
+<list> is
+
+textFiles/file1.txt 2
+
+</list>
+
+<list> mail
+
+textFiles/file1.txt 1
+
+</list>
+
+<list> pizza
+
+textFiles/file4.txt 1
+
+</list>
+
+<list> rambo
+
+textFiles/file4.txt 1
+
+</list>
+
+<list> red
+
+textFiles/file4.txt 2
+
+</list>
+
+<list> rutgers
+
+textFiles/file3.txt 4 textFiles/file1.txt 1 textFiles/file2.txt 1
+
+</list>
+
+<list> steak
+
+textFiles/file4.txt 2
+
+</list>
+
+<list> test
+
+textFiles/file3.txt 3 textFiles/file2.txt 1
+
+</list>
+
+<list> this
+
+textFiles/file2.txt 7 textFiles/file3.txt 5 textFiles/file1.txt 1
+
+</list>
+
+<list> yellow
+
+textFiles/file2.txt 3
+
+</list>
+
+<list> zebra
+
+textFiles/file1.txt 1
+
+</list>
+
